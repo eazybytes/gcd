@@ -1,22 +1,6 @@
-# gcd
-Google Cloud Digital Leader Certification - For GCP Beginner
-<!--
-Hey, thanks for using the awesome-readme-template template.  
-If you have any enhancements, then fork this project and create a pull request 
-or just open an issue with the label "enhancement".
-
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
--->
 <div align="center">
-
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
-  
-  <p>
-    An awesome README template for your projects! 
-  </p>
-  
+  <img src="https://lh3.googleusercontent.com/OIeaCAf1RpfEsVUIgiebZfJTX8jyyXIvcc1_2kkORVAMeUzlvXeSLGSYMM_tN9ysludEA9CkAneBR9FRQSdGPLNGFUPOOHDwm1UAYbtKD78Swhd7lgK2LJyxCv5yDxruOjmm97fFoTH4QWf7nf9Lcg=w1280" alt="logo" width="200" height="auto" />
+  <h1>Google Cloud Digital Leader Certification - For GCP Beginner</h1>
   
 <!-- Badges -->
 <p>
