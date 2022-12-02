@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/OIeaCAf1RpfEsVUIgiebZfJTX8jyyXIvcc1_2kkORVAMeUzlvXeSLGSYMM_tN9ysludEA9CkAneBR9FRQSdGPLNGFUPOOHDwm1UAYbtKD78Swhd7lgK2LJyxCv5yDxruOjmm97fFoTH4QWf7nf9Lcg=w1280" alt="logo" width="200" height="auto" />
+  <img src="assets/images/CDL_Linkedin@2x.jpg" alt="badge"/>
   <h1>Google Cloud Digital Leader Certification - For GCP Beginner</h1>
   
 <!-- Badges -->
