@@ -22,3 +22,4 @@ Below are the important Google Cloud URLs,
 
  - [Google Cloud Website](https://cloud.google.com/)
  - [Google Cloud Locations, Regions, Zones](https://cloud.google.com/about/locations)
+ - [Google Cloud Adaption framework](https://cloud.google.com/adoption-framework)
