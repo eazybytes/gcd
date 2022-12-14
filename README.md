@@ -21,5 +21,8 @@ Below are the official Google URLs that can help you with the information around
 Below are the important Google Cloud URLs,
 
  - [Google Cloud Website](https://cloud.google.com/)
+ - [Google Cloud Products] (https://cloud.google.com/products/)
  - [Google Cloud Locations, Regions, Zones](https://cloud.google.com/about/locations)
  - [Google Cloud Adaption framework](https://cloud.google.com/adoption-framework)
+ - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
+ - [Google Cloud Products SLA](https://cloud.google.com/terms/sla)
