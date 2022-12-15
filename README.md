@@ -12,10 +12,11 @@
 
 Below are the official Google URLs that can help you with the information around the Google Cloud Digital Leader Certification
 
- - [Summary of the Certification](https://cloud.google.com/certification/cloud-digital-leader)
- - [Certification exam guide & curriculum](https://cloud.google.com/certification/guides/cloud-digital-leader)
- - [Google official training for the exam](https://www.cloudskillsboost.google/paths/9)
- - [Enrolling for the exam](https://www.webassessor.com/googlecloud)
+ - [List of Google Cloud Certifications](https://cloud.google.com/certification)
+ - [Summary of the Cloud Digital Leader Certification](https://cloud.google.com/certification/cloud-digital-leader)
+ - [Cloud Digital Leader Certification exam guide & curriculum](https://cloud.google.com/certification/guides/cloud-digital-leader)
+ - [Google official training for the Cloud Digital Leader exam](https://www.cloudskillsboost.google/paths/9)
+ - [Enrolling for the Cloud Digital Leader exam](https://www.webassessor.com/googlecloud)
  
 ## :gem: Google Cloud URLs
 
