@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="assets/images/wallpaper.jpg" alt="badge"/>
   <h1>Google Cloud Digital Leader Certification - For GCP Beginner</h1>
-  
-
 </div>
 
 <br />
