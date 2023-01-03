@@ -50,7 +50,20 @@ Below are the important Google Cloud URLs,
  - If you opted for Online exam, make sure you have a private room in the home to attempt the exam along with a working webcam & headphones.
  - Online proctor will examine the room and may request to remove mobile phone, books etc. Be prepared !!!
 
+<!-- Tips for the exam -->
+## :star2: Tips for the exam
 
+  - Mark difficult or not sure questions for later review. At the end, you can review such questions & answer
+  - While answering a question, follow below rules
+     - Eliminate obivious wrong answers
+     - Identify the significant clauses in the question
+     - Always consider Google Cloud best practices
+     - Always look for the most efficient method & least expensive method
+     - Apply common sense while answering the non technical & scenario based questions
+  - Make sure to monitor time & review all answers once quickly. Don’t try to close the exam well ahead. When confident & done, submit the exam.
+  - Immediate grade where PASS/FAIL will be provided. But official confirmation will be shared after few days from Google Cloud. No marks will be       provided.
+  - If you PASS, a **BIG CONGRATULATIONS !!!**
+    If you don't pass an exam, you can take it again after 14 days. If you don't pass the second time, you must wait 60 days before you can take it a     third time. If you don't pass the third time, you must wait 365 days before taking it again. Every retake attempt requires payment again.
 
 
 
